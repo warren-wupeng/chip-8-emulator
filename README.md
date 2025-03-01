@@ -14,7 +14,7 @@ npm install -g http-server
 
 1. Run server in project root directory:
 ```bash
-cd /Users/wupeng/projects/chip-8-emulator
+cd chip-8-emulator
 http-server src
 ```
 
